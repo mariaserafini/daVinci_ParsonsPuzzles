@@ -5,8 +5,8 @@ title: Page 2 Example (Variable Check Grader)
 
 ## Selezione a 3 vie (Ristorante)
 Metti in ordine le seguenti linee di codice 
-<div id="06_selezione3vie-sortableTrash" class="sortable-code-mio"></div> 
-<div id="06_selezione3vie-sortable" class="sortable-code-mio"></div> 
+<div id="06_selezione3vie-sortableTrash" class="sortable-code"></div> 
+<div id="06_selezione3vie-sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
 <p> 
     <input id="06_selezione3vie-feedbackLink" value="Get Feedback" type="button" /> 
