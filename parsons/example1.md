@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Page 2 Example (Variable Check Grader)
+title: Selezione a 3 vie
 ---
 
 Construct a program that swaps the values of variables <code>x</code> and <code>y</code> using the helper variable <code>tmp</code>. You can change the names of the variables (<span class="jsparson-toggle"></span>) by clicking them.
