@@ -10,9 +10,9 @@ title: Multiple Parson's Problems on One Page
 ### Esercizi fatti da noi
 [Lezione 01 - Input/Output](./parsons/01_io.md)<br/>
 [Lezione 02 - Tipi di dato](./parsons/02_dati.md)<br/>
-[Lezione 04 - Selezione a 1 via](./parsons/04_selezione1via.md)<br/>
-[Lezione 05 - Selezione a 2 vie](./parsons/05_selezione2vie.md)<br/>
-[Lezione 06 - Selezione a 3 vie](./parsons/06_selezione3vie.md)<br/>
+[Lezione 04 - Selezione 1 via](./parsons/04_selezione1via.md)<br/>
+[Lezione 05 - Selezione 2 vie](./parsons/05_selezione2vie.md)<br/>
+[Lezione 06 - Selezione 3 vie](./parsons/06_selezione3vie.md)<br/>
 
 
 
