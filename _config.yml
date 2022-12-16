@@ -12,9 +12,11 @@ title: Parson Puzzles
 email: maria.serafini@liceodavincitn.it
 description: # >- # this means to ignore newlines until "baseurl:"
   Trascina e riordina le linee di codice qui sotto.  <br/>
+  
   Ricorda di indentare correttamente dove serve, trascinando i blocchi verso destra. <br/>
 
   Per controllare il tuo lavoro, clicca il pulsante "Get Feedback". <br/>
+  
   Per ricominciare, clicca il pulsante "Reset Problem".
 baseurl: "/daVinci_ParsonsPuzzles" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
