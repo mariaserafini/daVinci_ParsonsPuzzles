@@ -7,6 +7,16 @@ title: Multiple Parson's Problems on One Page
 ---
 # Parsons Practice
 
+### Esercizi fatti da noi
+[Lezione 01: Input/Output](./parsons/01_io.md)
+[Lezione 02: Tipi di dato](./parsons/02_dati.md)
+[Lezione 03: Librerie](./parsons/03_librerie.md)
+[Lezione 04: Selezione a 1 via](./parsons/04_selezione1via.md)
+[Lezione 05: Selezione a 2 vie](./parsons/05_selezione2vie.md)
+[Lezione 06:Selezione a 3 vie](./parsons/06_selezione3vie.md)
+
+
+
 ## Parsons 1 (Line Based Grader)
 Re-arrange the blocks below so they print out "Hello World!"
 
@@ -243,12 +253,5 @@ When you host multiple Parson's problems on a single markdown page, you need to 
 
 If want each problem to be it's own page, you can use relative path links at the bottom of each of your markdown pages as seen below. If you want students to be able to return to previous problems in this format, consider adding previous links or link to a table of contents like page.
 
-### Example Next Link
-[Lezione 01: Input/Output](./parsons/01_io.md)
-[Lezione 02: Tipi di dato](./parsons/02_dati.md)
-[Lezione 03: Librerie](./parsons/03_librerie.md)
-[Lezione 04: Selezione a 1 via](./parsons/04_selezione1via.md)
-[Lezione 05: Selezione a 2 vie](./parsons/05_selezione2vie.md)
-[Lezione 06:Selezione a 3 vie](./parsons/06_selezione3vie.md)
 
 
