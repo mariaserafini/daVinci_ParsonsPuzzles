@@ -4,6 +4,5 @@
 @import "{{ site.theme }}";
 
 .sortable-code {
-  width: 800px;
+  width: 800px;  /* era 100% ma lo ho modificato perché era piccolo, sarebbe da guardarsi bene il codice e modificare la regola iniziale del <main content> dove viene originata realmente la dimensione in base allo schermo */
 }
-
