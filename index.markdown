@@ -245,8 +245,9 @@ If want each problem to be it's own page, you can use relative path links at the
 
 ### Example Next Link
 [Next](./parsons/example1.html)
-      
-      <div id="06_selezione3vie-sortableTrash" class="sortable-code"></div> 
+
+### Selezione a 3 vie (ristorante)
+<div id="06_selezione3vie-sortableTrash" class="sortable-code"></div> 
 <div id="06_selezione3vie-sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
 <p> 
