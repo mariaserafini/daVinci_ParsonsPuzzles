@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Selezione a 2 vie
+title: Selezione 2 vie
 ---
-## Selezione a 2 vie (Media voti)
+## Selezione 2 vie (Media voti)
 <div id="05_selezione2vie-sortableTrash" class="sortable-code"></div> 
 <div id="05_selezione2vie-sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 

@@ -2,7 +2,7 @@
 layout: default
 title: Selezione 1 via
 ---
-## Selezione a 1 via (Somma due numeri)
+## Selezione 1 via (Somma due numeri)
 <div id="04_selezione1via-sortableTrash" class="sortable-code"></div> 
 <div id="04_selezione1via-sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 

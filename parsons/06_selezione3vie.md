@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Selezione a 3 vie
+title: Selezione 3 vie
 ---
 
-## Selezione a 3 vie (Ristorante)
+## Selezione 3 vie (Ristorante)
 <div id="06_selezione3vie-sortableTrash" class="sortable-code"></div> 
 <div id="06_selezione3vie-sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
