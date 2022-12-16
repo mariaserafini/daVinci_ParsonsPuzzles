@@ -1,3 +1,8 @@
+---
+layout: default
+title: Page 2 Example (Variable Check Grader)
+---
+
 ## Selezione a 3 vie (Ristorante)
 Metti in ordine le seguenti linee di codice 
 <div id="06_selezione3vie-sortableTrash" class="sortable-code"></div> 
