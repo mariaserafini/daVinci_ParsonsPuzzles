@@ -13,6 +13,7 @@ title: Multiple Parson's Problems on One Page
 [Lezione 04 - Selezione 1 via](./parsons/04_selezione1via.md)<br/>
 [Lezione 05 - Selezione 2 vie](./parsons/05_selezione2vie.md)<br/>
 [Lezione 06 - Selezione 3 vie](./parsons/06_selezione3vie.md)<br/>
+[Lezione 07 - Turtle](./parsons/07_turtle.md)<br/>
 
 
 
