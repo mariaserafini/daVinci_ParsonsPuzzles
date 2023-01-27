@@ -17,8 +17,7 @@
     "turtle.left(120)\n" +
     "turtle.forward(200)\n" +
     "turtle.left(120)\n" +
-    "turtle.end_fill()\n" +
-    "turtle.hideturtle()";
+    "turtle.end_fill()";
   var parsonsPuzzle = new ParsonsWidget({
     "sortableId": "07_turtle-sortable",
     "max_wrong_lines": 10,
