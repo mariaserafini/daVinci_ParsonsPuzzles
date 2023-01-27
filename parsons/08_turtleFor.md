@@ -8,14 +8,14 @@
 <script type="text/javascript"> 
 (function(){
   var initial = "import turtle\n" +
-    "turtle.goto(-100,-100)\n" +
     "turtle.penup()\n" +
-    "turtle.forward(100)\n" +
-    "turtle.begin_fill()\n" +
+    "turtle.goto(-100,-100)\n" +
     "turtle.pendown()\n" +
     "turtle.fillcolor(&quot;orange&quot;)\n" +
-    "turtle.left(360/6)\n" +
+    "turtle.begin_fill()\n" +
     "for contatore in range(6):\n" +
+    "    turtle.forward(100)\n" +
+    "    turtle.left(360/6)\n" +
     "turtle.end_fill()\n" +
     "turtle.write(&quot;ho disegnato un esagono!&quot;)";
   var parsonsPuzzle = new ParsonsWidget({

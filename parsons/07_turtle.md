@@ -7,18 +7,18 @@
 </p> 
 <script type="text/javascript"> 
 (function(){
-  var initial = "turtle.hideturtle()\n" +
+  var initial = "import turtle\n" +
     "turtle.pencolor(&quot;cyan&quot;)\n" +
-    "turtle.left(120)\n" +
-    "turtle.left(120)\n" +
-    "turtle.left(120)\n" +
-    "turtle.begin_fill()\n" +
     "turtle.fillcolor(&quot;magenta&quot;)\n" +
-    "import turtle\n" +
+    "turtle.begin_fill()\n" +
     "turtle.forward(200)\n" +
+    "turtle.left(120)\n" +
     "turtle.forward(200)\n" +
+    "turtle.left(120)\n" +
     "turtle.forward(200)\n" +
-    "turtle.end_fill()";
+    "turtle.left(120)\n" +
+    "turtle.end_fill()\n" +
+    "turtle.hideturtle()";
   var parsonsPuzzle = new ParsonsWidget({
     "sortableId": "07_turtle-sortable",
     "max_wrong_lines": 10,
