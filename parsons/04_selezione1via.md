@@ -17,7 +17,7 @@ title: Selezione 1 via
     "addendo2 = int(input(&quot;Inserisci il secondo addendo: &quot;))\n" +
     "somma = addendo1 + addendo2\n" +
     "if (somma &gt;= 10):\n" +
-    "    print(&quot;la somma e&#039; maggiore di 10&quot;)\n" +
+    "    print(&quot;la somma e&#039; maggiore o uguale a 10&quot;)\n" +
     "    if (somma &lt;= 15):\n" +
     "        print(&quot;la somma e&#039; compresa tra 10 e 15&quot;)\n" +
     "print(&quot;Ciao, alla prossima!&quot;)";
