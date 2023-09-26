@@ -18,11 +18,11 @@ title: Tipi di dato
     "print(&quot;inserire numero meloni acquistati&quot;)\n" +
     "numero = int(input())\n" +
     "totale = prezzo * numero\n" +
-    "print(&quot;devi pagare&quot;,str(totale),&quot;euro&quot;)\n" +
+    "print(&quot;devi pagare&quot;,totale,&quot;euro&quot;)\n" +
     "print(&quot;inserire importo banconota&quot;)\n" +
     "banconota = int(input())\n" +
     "resto = banconota - totale\n" +
-    "print(&quot;Otterrai di resto &quot;, str(resto),&quot;euro&quot;)";
+    "print(&quot;Otterrai di resto &quot;,resto,&quot;euro&quot;)";
   var parsonsPuzzle = new ParsonsWidget({
     "sortableId": "02_dati-sortable",
     "max_wrong_lines": 10,
