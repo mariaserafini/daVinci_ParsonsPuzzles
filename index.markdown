@@ -12,7 +12,7 @@ title: Multiple Parson's Problems on One Page
 [Lezione 02 - Tipi di dato](./parsons/02_dati.md)<br/>
 [Lezione 04 - Selezione 1 via](./parsons/04_selezione1via.md)<br/>
 [Lezione 05 - Selezione 2 vie](./parsons/05_selezione2vie.md)<br/>
-[Lezione 06 - Selezione 3 vie (semplice)](./parsons/06_selezione3vie_semplice.md)<br/>
+[Lezione 06 - Selezione 3 vie (semplice)](./parsons/06bis_selezione3vie_semplice.md)<br/>
 [Lezione 06 - Selezione 3 vie (annidata)](./parsons/06_selezione3vie.md)<br/>
 [Lezione 07 - Turtle](./parsons/07_turtle.md)<br/>
 [Lezione 08 - Turtle e For](./parsons/08_turtleFor.md)<br/>
