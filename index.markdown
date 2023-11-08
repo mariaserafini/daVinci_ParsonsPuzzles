@@ -16,6 +16,7 @@ title: Multiple Parson's Problems on One Page
 [Lezione 06 - Selezione 3 vie (annidata)](./parsons/06_selezione3vie.md)<br/>
 [Lezione 07 - Turtle](./parsons/07_turtle.md)<br/>
 [Lezione 08 - Turtle e For](./parsons/08_turtleFor.md)<br/>
+[Lezione 09 - File](./parsons/09_file.md)<br/>
 
 
 ## Parsons 1 (Line Based Grader)
