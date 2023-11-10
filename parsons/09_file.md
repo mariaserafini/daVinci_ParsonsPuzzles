@@ -7,7 +7,7 @@
 </p> 
 <script type="text/javascript"> 
 (function(){
-  var initial = "file = open(&#039;libri.txt&#039;, &#039;r+&#039;)\n" +
+  var initial = "file = open(&quot;libri.txt&quot;, &quot;r+&quot;)\n" +
     "testo = file.readlines()\n" +
     "x = 0\n" +
     "for riga in testo:\n" +
