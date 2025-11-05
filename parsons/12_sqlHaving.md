@@ -9,7 +9,7 @@
 (function(){
   var initial = "SELECT COUNT(*), marca\n" +
     "FROM automobili\n" +
-    "WHERE prezzo &gt;40000\n" +
+    "WHERE prezzo &gt; 40000\n" +
     "AND tipo = &#039;4x4&#039;\n" +
     "GROUP BY marca\n" +
     "HAVING COUNT(*) &gt; 5\n" +

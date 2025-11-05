@@ -9,7 +9,7 @@
 (function(){
   var initial = "SELECT marca, modello\n" +
     "FROM automobili\n" +
-    "WHERE prezzo &gt;40000\n" +
+    "WHERE prezzo &gt; 40000\n" +
     "AND marca = &#039;Audi&#039;\n" +
     "ORDER BY prezzo ";
   var parsonsPuzzle = new ParsonsWidget({
