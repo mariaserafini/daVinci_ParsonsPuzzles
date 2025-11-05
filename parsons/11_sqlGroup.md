@@ -10,7 +10,7 @@
   var initial = "SELECT MAX(prezzo)\n" +
     "FROM automobili\n" +
     "WHERE prezzo &gt;40000\n" +
-    "AND marca IN (&#039;Audi&#039;, &#039;BMW&#039;, &#039;Volvo&#039;)\n" +
+    "AND tipo = &#039;4x4&#039\n" +
     "GROUP BY marca\n" +
     "ORDER BY prezzo ";
   var parsonsPuzzle = new ParsonsWidget({
