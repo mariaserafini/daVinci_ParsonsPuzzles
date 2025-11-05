@@ -9,7 +9,7 @@
 (function(){
   var initial = "SELECT MAX(prezzo)\n" +
     "FROM automobili\n" +
-    "WHERE prezzo &gt; 40000xxx\n" +
+    "WHERE prezzo &gt; 40000\n" +
     "AND tipo = &#039;4x4&#039\n" +
     "GROUP BY marca\n" +
     "ORDER BY prezzo ";
