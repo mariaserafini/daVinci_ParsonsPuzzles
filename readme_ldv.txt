@@ -3,7 +3,7 @@ https://codio.github.io/parsons-puzzle-ui/dist/
 
 copiare-incollare il codice e cliccare "generate"
 cliccare in alto a sx su "export"
-aggiungere prefisso (tipo nome file senza spazi)
+aggiungere prefisso (tipo nome file senza spazi) e poi "Update prefix"
 cliccare su "copy code"
 incollare codice su un nuovo documento
 salvare il documento con estensione .md e caricarlo nella cartella parsons

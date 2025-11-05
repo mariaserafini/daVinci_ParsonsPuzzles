@@ -18,6 +18,10 @@ title: Multiple Parson's Problems on One Page
 [Lezione 08 - Turtle e For](./parsons/08_turtleFor.md)<br/>
 [Lezione 09 - File](./parsons/09_file.md)<br/>
 
+### Esercizi SQL
+[Esempio 1](./parsons/10_sqlBase.md)<br />
+[Esempio 2](./parsons/11_sqlGroup.md)<br />
+[Esempio 3](./parsons/12_sqlHaving.md)<br />
 
 ## Parsons 1 (Line Based Grader)
 Re-arrange the blocks below so they print out "Hello World!"
