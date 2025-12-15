@@ -7,16 +7,11 @@
 </p> 
 <script type="text/javascript"> 
 (function(){
-  var initial = "SELECT *
-\n" +
-    "FROM studenti
-\n" +
-    "WHERE nazione=&#039;Italia&#039;
-\n" +
-    "AND nazione=&#039;USA&#039;
-\n" +
-    "ORDER BY cognome
-\n" +
+  var initial = "SELECT *\n" +
+    "FROM studenti\n" +
+    "WHERE nazione=&#039;Italia&#039;\n" +
+    "AND nazione=&#039;USA&#039;\n" +
+    "ORDER BY cognome\n" +
     "LIMIT 5";
   var parsonsPuzzle = new ParsonsWidget({
     "sortableId": "13_sqlOrderLimit-sortable",
