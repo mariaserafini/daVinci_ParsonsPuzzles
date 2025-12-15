@@ -1,9 +1,9 @@
-<div id="10_sqlBase2.md-sortableTrash" class="sortable-code"></div> 
-<div id="10_sqlBase2.md-sortable" class="sortable-code"></div> 
+<div id="13_sqlOrderLimit-sortableTrash" class="sortable-code"></div> 
+<div id="13_sqlOrderLimit-sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
 <p> 
-    <input id="10_sqlBase2.md-feedbackLink" value="Get Feedback" type="button" /> 
-    <input id="10_sqlBase2.md-newInstanceLink" value="Reset Problem" type="button" /> 
+    <input id="13_sqlOrderLimit-feedbackLink" value="Get Feedback" type="button" /> 
+    <input id="13_sqlOrderLimit-newInstanceLink" value="Reset Problem" type="button" /> 
 </p> 
 <script type="text/javascript"> 
 (function(){
@@ -19,7 +19,7 @@
 \n" +
     "LIMIT 5";
   var parsonsPuzzle = new ParsonsWidget({
-    "sortableId": "10_sqlBase2.md-sortable",
+    "sortableId": "13_sqlOrderLimit-sortable",
     "max_wrong_lines": 10,
     "grader": ParsonsWidget._graders.LineBasedGrader,
     "exec_limit": 2500,
@@ -30,11 +30,11 @@
   });
   parsonsPuzzle.init(initial);
   parsonsPuzzle.shuffleLines();
-  $("#10_sqlBase2.md-newInstanceLink").click(function(event){ 
+  $("#13_sqlOrderLimit-newInstanceLink").click(function(event){ 
       event.preventDefault(); 
       parsonsPuzzle.shuffleLines(); 
   }); 
-  $("#10_sqlBase2.md-feedbackLink").click(function(event){ 
+  $("#13_sqlOrderLimit-feedbackLink").click(function(event){ 
       event.preventDefault(); 
       parsonsPuzzle.getFeedback(); 
   }); 
